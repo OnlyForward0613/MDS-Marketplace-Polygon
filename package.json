@@ -1,0 +1,23 @@
+{
+  "name": "mds-marketplace-polygon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-tom-0108/MDS-Marketplace-Polygon.git"
+  },
+  "author": "dev-tom-0108",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-tom-0108/MDS-Marketplace-Polygon/issues"
+  },
+  "homepage": "https://github.com/dev-tom-0108/MDS-Marketplace-Polygon#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.1"
+  }
+}
